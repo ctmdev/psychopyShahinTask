@@ -1,0 +1,273 @@
+5.1278	EXP	Set Window color=[ 0.  0.  0.] (rgb)
+5.4880	EXP	Started presenting text
+15.5022	EXP	Imported bawa_response_sheet.xlsx as conditions, 45 conditions, 6 params
+15.5035	EXP	Created sequence: sequential, trialTypes=45, nReps=1, seed=None
+15.5653	EXP	New trial (rep=0, index=0): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawam_n75db.wav', u'order': 1, u'correct': 1}
+15.5665	EXP	Stopped presenting text
+16.0707	EXP	Started presenting earIcon
+16.4192	EXP	Stopped presenting earIcon
+16.4192	EXP	Started presenting keyDirections
+18.3054	DATA	Keypress: 1
+18.3072	EXP	New trial (rep=0, index=1): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bam_n75db.wav', u'order': 2, u'correct': 1}
+18.3085	EXP	Stopped presenting keyDirections
+18.8085	EXP	Started presenting earIcon
+19.1612	EXP	Stopped presenting earIcon
+19.1612	EXP	Started presenting keyDirections
+21.2016	DATA	Keypress: 1
+21.2029	EXP	New trial (rep=0, index=2): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'ba_n75db.wav', u'order': 3, u'correct': 1}
+21.2041	EXP	Stopped presenting keyDirections
+21.7042	EXP	Started presenting earIcon
+22.0379	EXP	Stopped presenting earIcon
+22.0379	EXP	Started presenting keyDirections
+22.9585	DATA	Keypress: 1
+22.9607	EXP	New trial (rep=0, index=3): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'waf_n75db.wav', u'order': 4, u'correct': 2}
+22.9638	EXP	Stopped presenting keyDirections
+23.4624	EXP	Started presenting earIcon
+23.8143	EXP	Stopped presenting earIcon
+23.8143	EXP	Started presenting keyDirections
+26.9603	EXP	New trial (rep=0, index=4): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'ba_n75db.wav', u'order': 5, u'correct': 1}
+26.9616	EXP	Stopped presenting keyDirections
+27.4629	EXP	Started presenting earIcon
+27.7961	EXP	Stopped presenting earIcon
+27.7961	EXP	Started presenting keyDirections
+30.9601	EXP	New trial (rep=0, index=5): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bam_n75db.wav', u'order': 6, u'correct': 1}
+30.9613	EXP	Stopped presenting keyDirections
+31.4620	EXP	Started presenting earIcon
+31.8136	EXP	Stopped presenting earIcon
+31.8136	EXP	Started presenting keyDirections
+34.9607	EXP	New trial (rep=0, index=6): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'wam_n75db.wav', u'order': 7, u'correct': 2}
+34.9619	EXP	Stopped presenting keyDirections
+35.4634	EXP	Started presenting earIcon
+35.8148	EXP	Stopped presenting earIcon
+35.8148	EXP	Started presenting keyDirections
+37.3317	DATA	Keypress: 2
+37.3330	EXP	New trial (rep=0, index=7): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawaf_n75db.wav', u'order': 8, u'correct': 1}
+37.3342	EXP	Stopped presenting keyDirections
+37.8347	EXP	Started presenting earIcon
+38.1620	EXP	Stopped presenting earIcon
+38.1620	EXP	Started presenting keyDirections
+38.8898	DATA	Keypress: 1
+38.8911	EXP	New trial (rep=0, index=8): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawam_n75db.wav', u'order': 9, u'correct': 1}
+38.8923	EXP	Stopped presenting keyDirections
+39.3931	EXP	Started presenting earIcon
+39.7450	EXP	Stopped presenting earIcon
+39.7450	EXP	Started presenting keyDirections
+41.1837	DATA	Keypress: 1
+41.1859	EXP	New trial (rep=0, index=9): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawaf_n75db.wav', u'order': 10, u'correct': 1}
+41.1871	EXP	Stopped presenting keyDirections
+41.6874	EXP	Started presenting earIcon
+42.0149	EXP	Stopped presenting earIcon
+42.0149	EXP	Started presenting keyDirections
+43.0660	DATA	Keypress: 1
+43.0671	EXP	New trial (rep=0, index=10): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawa_n75db.wav', u'order': 11, u'correct': 1}
+43.0683	EXP	Stopped presenting keyDirections
+43.5685	EXP	Started presenting earIcon
+43.9015	EXP	Stopped presenting earIcon
+43.9015	EXP	Started presenting keyDirections
+44.7770	DATA	Keypress: 1
+44.7790	EXP	New trial (rep=0, index=11): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'baf_n75db.wav', u'order': 12, u'correct': 1}
+44.7802	EXP	Stopped presenting keyDirections
+45.2809	EXP	Started presenting earIcon
+45.6322	EXP	Stopped presenting earIcon
+45.6322	EXP	Started presenting keyDirections
+46.4548	DATA	Keypress: 1
+46.4563	EXP	New trial (rep=0, index=12): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'ba_n75db.wav', u'order': 13, u'correct': 1}
+46.4575	EXP	Stopped presenting keyDirections
+46.9591	EXP	Started presenting earIcon
+47.2920	EXP	Stopped presenting earIcon
+47.2920	EXP	Started presenting keyDirections
+47.9074	DATA	Keypress: 1
+47.9088	EXP	New trial (rep=0, index=13): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'wa_n75db.wav', u'order': 14, u'correct': 2}
+47.9099	EXP	Stopped presenting keyDirections
+48.4123	EXP	Started presenting earIcon
+48.7439	EXP	Stopped presenting earIcon
+48.7439	EXP	Started presenting keyDirections
+49.4921	DATA	Keypress: 2
+49.4931	EXP	New trial (rep=0, index=14): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawa_n75db.wav', u'order': 15, u'correct': 1}
+49.4943	EXP	Stopped presenting keyDirections
+49.9948	EXP	Started presenting earIcon
+50.3283	EXP	Stopped presenting earIcon
+50.3283	EXP	Started presenting keyDirections
+51.2390	DATA	Keypress: 1
+51.2405	EXP	New trial (rep=0, index=15): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'baf_n75db.wav', u'order': 16, u'correct': 1}
+51.2418	EXP	Stopped presenting keyDirections
+51.7437	EXP	Started presenting earIcon
+52.0944	EXP	Stopped presenting earIcon
+52.0944	EXP	Started presenting keyDirections
+52.7383	DATA	Keypress: 1
+52.7397	EXP	New trial (rep=0, index=16): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'wam_n75db.wav', u'order': 17, u'correct': 2}
+52.7409	EXP	Stopped presenting keyDirections
+53.2412	EXP	Started presenting earIcon
+53.5932	EXP	Stopped presenting earIcon
+53.5932	EXP	Started presenting keyDirections
+54.9342	DATA	Keypress: 2
+54.9356	EXP	New trial (rep=0, index=17): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'waf_n75db.wav', u'order': 18, u'correct': 2}
+54.9369	EXP	Stopped presenting keyDirections
+55.4386	EXP	Started presenting earIcon
+55.7889	EXP	Stopped presenting earIcon
+55.7889	EXP	Started presenting keyDirections
+56.5100	DATA	Keypress: 2
+56.5114	EXP	New trial (rep=0, index=18): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawa_n75db.wav', u'order': 19, u'correct': 1}
+56.5126	EXP	Stopped presenting keyDirections
+57.0148	EXP	Started presenting earIcon
+57.3470	EXP	Stopped presenting earIcon
+57.3470	EXP	Started presenting keyDirections
+57.8503	DATA	Keypress: 1
+57.8514	EXP	New trial (rep=0, index=19): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawam_n75db.wav', u'order': 20, u'correct': 1}
+57.8526	EXP	Stopped presenting keyDirections
+58.3550	EXP	Started presenting earIcon
+58.7053	EXP	Stopped presenting earIcon
+58.7053	EXP	Started presenting keyDirections
+59.3971	DATA	Keypress: 1
+59.3984	EXP	New trial (rep=0, index=20): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'wam_n75db.wav', u'order': 21, u'correct': 2}
+59.3996	EXP	Stopped presenting keyDirections
+59.9019	EXP	Started presenting earIcon
+60.2520	EXP	Stopped presenting earIcon
+60.2520	EXP	Started presenting keyDirections
+60.6720	DATA	Keypress: 2
+60.6731	EXP	New trial (rep=0, index=21): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawaf_n75db.wav', u'order': 22, u'correct': 1}
+60.6743	EXP	Stopped presenting keyDirections
+61.1750	EXP	Started presenting earIcon
+61.5014	EXP	Stopped presenting earIcon
+61.5014	EXP	Started presenting keyDirections
+61.9509	DATA	Keypress: 1
+61.9522	EXP	New trial (rep=0, index=22): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'baf_n75db.wav', u'order': 23, u'correct': 1}
+61.9534	EXP	Stopped presenting keyDirections
+62.4542	EXP	Started presenting earIcon
+62.8058	EXP	Stopped presenting earIcon
+62.8058	EXP	Started presenting keyDirections
+63.2458	DATA	Keypress: 1
+63.2471	EXP	New trial (rep=0, index=23): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawaf_n75db.wav', u'order': 24, u'correct': 1}
+63.2483	EXP	Stopped presenting keyDirections
+63.7489	EXP	Started presenting earIcon
+64.0753	EXP	Stopped presenting earIcon
+64.0753	EXP	Started presenting keyDirections
+64.7923	DATA	Keypress: 1
+64.7937	EXP	New trial (rep=0, index=24): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'wa_n75db.wav', u'order': 25, u'correct': 2}
+64.7950	EXP	Stopped presenting keyDirections
+65.2956	EXP	Started presenting earIcon
+65.6292	EXP	Stopped presenting earIcon
+65.6292	EXP	Started presenting keyDirections
+65.9164	DATA	Keypress: 2
+65.9183	EXP	New trial (rep=0, index=25): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawa_n75db.wav', u'order': 26, u'correct': 1}
+65.9196	EXP	Stopped presenting keyDirections
+66.4204	EXP	Started presenting earIcon
+66.7537	EXP	Stopped presenting earIcon
+66.7537	EXP	Started presenting keyDirections
+67.2157	DATA	Keypress: 1
+67.2168	EXP	New trial (rep=0, index=26): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'waf_n75db.wav', u'order': 27, u'correct': 2}
+67.2180	EXP	Stopped presenting keyDirections
+67.7180	EXP	Started presenting earIcon
+68.0708	EXP	Stopped presenting earIcon
+68.0708	EXP	Started presenting keyDirections
+68.3864	DATA	Keypress: 2
+68.3875	EXP	New trial (rep=0, index=27): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'baf_n75db.wav', u'order': 28, u'correct': 1}
+68.3887	EXP	Stopped presenting keyDirections
+68.8891	EXP	Started presenting earIcon
+69.2416	EXP	Stopped presenting earIcon
+69.2416	EXP	Started presenting keyDirections
+69.4357	DATA	Keypress: 1
+69.4368	EXP	New trial (rep=0, index=28): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawaf_n75db.wav', u'order': 29, u'correct': 1}
+69.4381	EXP	Stopped presenting keyDirections
+69.9384	EXP	Started presenting earIcon
+70.2660	EXP	Stopped presenting earIcon
+70.2660	EXP	Started presenting keyDirections
+70.7665	DATA	Keypress: 1
+70.7679	EXP	New trial (rep=0, index=29): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'wa_n75db.wav', u'order': 30, u'correct': 2}
+70.7690	EXP	Stopped presenting keyDirections
+71.2700	EXP	Started presenting earIcon
+71.6031	EXP	Stopped presenting earIcon
+71.6031	EXP	Started presenting keyDirections
+72.0835	DATA	Keypress: 2
+72.0846	EXP	New trial (rep=0, index=30): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bam_n75db.wav', u'order': 31, u'correct': 1}
+72.0859	EXP	Stopped presenting keyDirections
+72.5865	EXP	Started presenting earIcon
+72.9382	EXP	Stopped presenting earIcon
+72.9382	EXP	Started presenting keyDirections
+73.2289	DATA	Keypress: 1
+73.2302	EXP	New trial (rep=0, index=31): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawa_n75db.wav', u'order': 32, u'correct': 1}
+73.2313	EXP	Stopped presenting keyDirections
+73.7320	EXP	Started presenting earIcon
+74.0653	EXP	Stopped presenting earIcon
+74.0653	EXP	Started presenting keyDirections
+74.5520	DATA	Keypress: 1
+74.5533	EXP	New trial (rep=0, index=32): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'waf_n75db.wav', u'order': 33, u'correct': 2}
+74.5546	EXP	Stopped presenting keyDirections
+75.0571	EXP	Started presenting earIcon
+75.4063	EXP	Stopped presenting earIcon
+75.4063	EXP	Started presenting keyDirections
+75.7165	DATA	Keypress: 2
+75.7176	EXP	New trial (rep=0, index=33): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'ba_n75db.wav', u'order': 34, u'correct': 1}
+75.7188	EXP	Stopped presenting keyDirections
+76.2193	EXP	Started presenting earIcon
+76.5524	EXP	Stopped presenting earIcon
+76.5524	EXP	Started presenting keyDirections
+76.7975	DATA	Keypress: 1
+76.7989	EXP	New trial (rep=0, index=34): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'wa_n75db.wav', u'order': 35, u'correct': 2}
+76.8001	EXP	Stopped presenting keyDirections
+77.3008	EXP	Started presenting earIcon
+77.6351	EXP	Stopped presenting earIcon
+77.6351	EXP	Started presenting keyDirections
+77.9266	DATA	Keypress: 2
+77.9279	EXP	New trial (rep=0, index=35): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'wa_n75db.wav', u'order': 36, u'correct': 2}
+77.9290	EXP	Stopped presenting keyDirections
+78.4297	EXP	Started presenting earIcon
+78.7635	EXP	Stopped presenting earIcon
+78.7635	EXP	Started presenting keyDirections
+79.4390	DATA	Keypress: 2
+79.4404	EXP	New trial (rep=0, index=36): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawam_n75db.wav', u'order': 37, u'correct': 1}
+79.4416	EXP	Stopped presenting keyDirections
+79.9422	EXP	Started presenting earIcon
+80.2948	EXP	Stopped presenting earIcon
+80.2948	EXP	Started presenting keyDirections
+80.7800	DATA	Keypress: 1
+80.7810	EXP	New trial (rep=0, index=37): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'wam_n75db.wav', u'order': 38, u'correct': 2}
+80.7822	EXP	Stopped presenting keyDirections
+81.2831	EXP	Started presenting earIcon
+81.6352	EXP	Stopped presenting earIcon
+81.6352	EXP	Started presenting keyDirections
+81.8472	DATA	Keypress: 2
+81.8482	EXP	New trial (rep=0, index=38): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'waf_n75db.wav', u'order': 39, u'correct': 2}
+81.8494	EXP	Stopped presenting keyDirections
+82.3499	EXP	Started presenting earIcon
+82.7018	EXP	Stopped presenting earIcon
+82.7018	EXP	Started presenting keyDirections
+83.0362	DATA	Keypress: 2
+83.0376	EXP	New trial (rep=0, index=39): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'ba_n75db.wav', u'order': 40, u'correct': 1}
+83.0388	EXP	Stopped presenting keyDirections
+83.5396	EXP	Started presenting earIcon
+83.8731	EXP	Stopped presenting earIcon
+83.8731	EXP	Started presenting keyDirections
+84.3055	DATA	Keypress: 1
+84.3068	EXP	New trial (rep=0, index=40): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'baf_n75db.wav', u'order': 41, u'correct': 1}
+84.3081	EXP	Stopped presenting keyDirections
+84.8086	EXP	Started presenting earIcon
+85.1604	EXP	Stopped presenting earIcon
+85.1604	EXP	Started presenting keyDirections
+85.4723	DATA	Keypress: 1
+85.4737	EXP	New trial (rep=0, index=41): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bam_n75db.wav', u'order': 42, u'correct': 1}
+85.4751	EXP	Stopped presenting keyDirections
+85.9758	EXP	Started presenting earIcon
+86.3267	EXP	Stopped presenting earIcon
+86.3267	EXP	Started presenting keyDirections
+86.5977	DATA	Keypress: 1
+86.5987	EXP	New trial (rep=0, index=42): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bawam_n75db.wav', u'order': 43, u'correct': 1}
+86.5999	EXP	Stopped presenting keyDirections
+87.1006	EXP	Started presenting earIcon
+87.4524	EXP	Stopped presenting earIcon
+87.4524	EXP	Started presenting keyDirections
+87.7211	DATA	Keypress: 1
+87.7225	EXP	New trial (rep=0, index=43): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'bam_n75db.wav', u'order': 44, u'correct': 1}
+87.7238	EXP	Stopped presenting keyDirections
+88.2256	EXP	Started presenting earIcon
+88.5758	EXP	Stopped presenting earIcon
+88.5758	EXP	Started presenting keyDirections
+88.8270	DATA	Keypress: 1
+88.8283	EXP	New trial (rep=0, index=44): {u'noise': None, u'BA': None, u'WA': None, u'stim': u'wam_n75db.wav', u'order': 45, u'correct': 2}
+88.8295	EXP	Stopped presenting keyDirections
+89.3296	EXP	Started presenting earIcon
+89.6814	EXP	Stopped presenting earIcon
+89.6814	EXP	Started presenting keyDirections
+90.1126	DATA	Keypress: 2
+90.2719	EXP	Stopped presenting keyDirections
+90.2719	EXP	Started presenting completeMsg
