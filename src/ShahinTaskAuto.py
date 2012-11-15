@@ -25,7 +25,7 @@ expInfo['expName'] = expName
 
 # Setup files for saving
 if not os.path.isdir('../data'):
-    os.makedirs('data')  # if this fails (e.g. permissions) we will get error
+    os.makedirs('../data')  # if this fails (e.g. permissions) we will get error
 filename = '../data' + os.path.sep + '%s_%s' %(expInfo['participant'], expInfo['date'])
 logFile = logging.LogFile(filename+'.log', level=logging.EXP)
 logging.console.setLevel(logging.WARNING)  # this outputs to the screen, not a file
