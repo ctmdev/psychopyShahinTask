@@ -25,7 +25,7 @@ def main():
 
   #calculate the frequency of responses
   d = defaultdict(int)
-  for ans in coldict['key_resp.corr']:
+  for ans in coldict['key_resp.keys']:
     d[ans] += 1
   print 'number times answered BA: ' + str(d['1'])
   print 'number times answered WA: ' + str(d['2'])
